@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/16313/OneDrive/git-repos/496VR-Final/ParalangsVR/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/16313/OneDrive/git-repos/496VR-Final/ParalangsVR/Content/InteractionSystem/Maps/LanguageConceptMap.umap",
+				"C:/Users/16313/OneDrive/git-repos/496VR-Final/ParalangsVR/Content/InteractionSystem/Maps/Map_General.umap"
+			]
+		}
+	]
+}
