@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\16313\\OneDrive\\git-repos\\CINF496Vr-Final\\CINF496Vr-Final\\ParalangsVR\\Intermediate\\Source\\ParalangsVR.Build.cs",
+		"C:\\Users\\16313\\OneDrive\\git-repos\\CINF496Vr-Final\\CINF496Vr-Final\\ParalangsVR\\Intermediate\\Source\\ParalangsVR.Target.cs",
+		"C:\\Users\\16313\\OneDrive\\git-repos\\CINF496Vr-Final\\CINF496Vr-Final\\ParalangsVR\\Intermediate\\Source\\ParalangsVRClient.Target.cs",
+		"C:\\Users\\16313\\OneDrive\\git-repos\\CINF496Vr-Final\\CINF496Vr-Final\\ParalangsVR\\Intermediate\\Source\\ParalangsVREditor.Target.cs",
+		"C:\\Users\\16313\\OneDrive\\git-repos\\CINF496Vr-Final\\CINF496Vr-Final\\ParalangsVR\\Intermediate\\Source\\ParalangsVRServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
