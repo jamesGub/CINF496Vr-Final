@@ -15215,3 +15215,549 @@ ImportObjectProperties() []
 [2024.04.25-20.17.32:684][454]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.84% of total time (compiled    9 times, average 3.84 sec, max 5.41 sec, min 2.84 sec)
 [2024.04.25-20.17.32:684][454]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 6.79% of total time (compiled    9 times, average 3.81 sec, max 5.65 sec, min 2.82 sec)
 [2024.04.25-20.17.32:684][454]LogShaderCompilers: Display: ================================================
+[2024.04.25-20.18.45:268][292]LogOVRPlugin: HandleOpenXREvents(): XrEventDataInteractionProfileChanged
+[2024.04.25-20.19.21:009][169]LogOVRPlugin: HandleOpenXREvents(): XrEventDataInteractionProfileChanged
+[2024.04.25-20.19.23:961][251]LogOVRPlugin: HandleOpenXREvents(): XrEventDataInteractionProfileChanged
+[2024.04.25-20.19.33:241][491]LogOVRPlugin: HandleOpenXREvents(): XrEventDataInteractionProfileChanged
+[2024.04.25-20.21.03:066][858]LogOVRPlugin: HandleOpenXREvents(): XrEventDataInteractionProfileChanged
+[2024.04.25-20.21.07:783][988]LogOVRPlugin: HandleOpenXREvents(): XrEventDataInteractionProfileChanged
+[2024.04.25-20.21.10:444][ 63]LogOVRPlugin: HandleOpenXREvents(): XrEventDataInteractionProfileChanged
+[2024.04.25-20.21.20:695][333]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_FOCUSED->XR_SESSION_STATE_VISIBLE session=72180670620762113 time=666625271392400
+[2024.04.25-20.21.20:702][334]LogOVRPlugin: [XR_SESSION] ... running 1 visible 1 focused 0
+[2024.04.25-20.21.20:702][334]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_VISIBLE->XR_SESSION_STATE_SYNCHRONIZED session=72180670620762113 time=666625271407600
+[2024.04.25-20.21.20:702][334]LogOVRPlugin: [XR_SESSION] ... running 1 visible 0 focused 0
+[2024.04.25-20.21.20:702][334]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_SYNCHRONIZED->XR_SESSION_STATE_STOPPING session=72180670620762113 time=666625271546299
+[2024.04.25-20.21.20:702][334]LogOVRPlugin: [XR_SESSION] ... running 1 visible 0 focused 0
+[2024.04.25-20.21.20:702][334]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_SYNCHRONIZED->XR_SESSION_STATE_STOPPING session=72180670620762113 time=666625271546299
+[2024.04.25-20.21.20:702][334]LogOVRPlugin: [XR_SESSION] ... running 1 visible 0 focused 0
+[2024.04.25-20.21.20:702][334]LogOVRPlugin: Display: Warning : CompositorOpenXR::Update called for frame 7196 outside of frame bounds
+[2024.04.25-20.21.20:743][335]LogOVRPlugin: Display: Warning : CompositorOpenXR::Update called for frame 7196 outside of frame bounds
+[2024.04.25-20.21.20:743][335]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_SYNCHRONIZED->XR_SESSION_STATE_STOPPING session=72180670620762113 time=666625271546299
+[2024.04.25-20.21.20:743][335]LogOVRPlugin: [XR_SESSION] ... running 0 visible 0 focused 0
+[2024.04.25-20.21.20:743][335]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_STOPPING->XR_SESSION_STATE_IDLE session=72180670620762113 time=666625320354200
+[2024.04.25-20.21.20:743][335]LogOVRPlugin: [XR_SESSION] ... running 0 visible 0 focused 0
+[2024.04.25-20.21.30:396][363]LogViewport: Scene viewport resized to 1455x928, mode Windowed.
+[2024.04.25-20.21.30:430][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-20.21.30:431][363]LogWorld: BeginTearingDown for /Game/InteractionSystem/Maps/UEDPIE_0_Map_General
+[2024.04.25-20.21.30:431][363]LogSlate: Window 'ParalangsVR Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OculusXRHMD OVRPlugin: 1.96.0' being destroyed
+[2024.04.25-20.21.30:495][363]LogWorld: UWorld::CleanupWorld for Map_General, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-20.21.30:502][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-20.21.30:507][363]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.25-20.21.30:516][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-20.21.30:550][363]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2024.04.25-20.21.30:550][363]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.04.25-20.21.30:552][363]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.04.25-20.21.30:573][363]LogSlate: Slate User Unregistered.  User Index 8
+[2024.04.25-20.21.30:573][363]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.04.25-20.21.30:577][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.04.25-20.21.30:761][364]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2024.04.25-20.21.31:503][365]LogHMD: Warning: Destroying layer 1
+[2024.04.25-20.21.31:507][365]LogHMD: Warning: Destroying layer 2
+[2024.04.25-20.21.31:516][365]LogOVRPlugin: CompositorOpenXR::~CompositorOpenXR()
+[2024.04.25-20.21.31:632][365]LogOVRPlugin: m_xrSession destroyed
+[2024.04.25-20.21.31:637][365]LogOVRPlugin: m_xrInstance destroyed
+[2024.04.25-20.21.31:658][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2024.04.25-20.21.47:581][681]LogViewport: Scene viewport resized to 1017x421, mode Windowed.
+[2024.04.25-20.21.48:162][681]LogViewport: Scene viewport resized to 2038x907, mode Windowed.
+[2024.04.25-20.21.50:121][763]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.25-20.21.50:121][763]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-20.21.50:121][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-20.21.51:113][817]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.25-20.21.51:113][817]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-20.21.51:113][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-20.21.52:831][872]LogViewport: Scene viewport resized to 1017x421, mode Windowed.
+[2024.04.25-20.21.53:614][872]LogViewport: Scene viewport resized to 2038x907, mode Windowed.
+[2024.04.25-20.25.38:308][675]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.04.25-20.25.38:318][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.25-20.25.38:319][675]LogHMD: Initializing OVRPlugin session
+[2024.04.25-20.25.38:319][675]LogOVRPlugin: Display: OpenXR SDK version 1.0.33
+[2024.04.25-20.25.38:319][675]LogOVRPlugin: Display: commandQueue is null
+[2024.04.25-20.25.38:319][675]LogOVRPlugin: CompositorOpenXR::Initialize()
+[2024.04.25-20.25.38:319][675]LogOVRPlugin: CompositorOpenXR::Initialize() - refresh available extensions
+[2024.04.25-20.25.38:499][675]LogOVRPlugin: Display: Available Extensions: (56)
+[2024.04.25-20.25.38:499][675]LogOVRPlugin: Display:  Name=XR_KHR_D3D11_enable SpecVersion=9
+[2024.04.25-20.25.38:499][675]LogOVRPlugin: Display:  Name=XR_KHR_D3D12_enable SpecVersion=9
+[2024.04.25-20.25.38:499][675]LogOVRPlugin: Display:  Name=XR_KHR_opengl_enable SpecVersion=10
+[2024.04.25-20.25.38:499][675]LogOVRPlugin: Display:  Name=XR_KHR_vulkan_enable SpecVersion=8
+[2024.04.25-20.25.38:499][675]LogOVRPlugin: Display:  Name=XR_KHR_vulkan_enable2 SpecVersion=2
+[2024.04.25-20.25.38:499][675]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_depth SpecVersion=6
+[2024.04.25-20.25.38:499][675]LogOVRPlugin: Display:  Name=XR_KHR_win32_convert_performance_counter_time SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_KHR_convert_timespec_time SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_cube SpecVersion=8
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_cylinder SpecVersion=4
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_equirect SpecVersion=3
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_KHR_visibility_mask SpecVersion=2
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_KHR_composition_layer_color_scale_bias SpecVersion=5
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_EXT_win32_appcontainer_compatible SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_EXT_debug_utils SpecVersion=5
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_OCULUS_recenter_event SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_OCULUS_audio_device_guid SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_FB_color_space SpecVersion=3
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_FB_display_refresh_rate SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_META_performance_metrics SpecVersion=2
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_META_headset_id SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_OCULUS_ovrsession_handle SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_EXT_hand_tracking SpecVersion=4
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_FB_hand_tracking_aim SpecVersion=2
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_FB_hand_tracking_capsules SpecVersion=3
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_FB_hand_tracking_mesh SpecVersion=3
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_METAX1_simultaneous_hands_controllers_management SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_META_simultaneous_hands_and_controllers SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_FB_body_tracking SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_META_body_tracking_full_body SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_META_body_tracking_fidelity SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_META_body_tracking_calibration SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_FB_keyboard_tracking SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_FB_render_model SpecVersion=4
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_container SpecVersion=2
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_FB_scene SpecVersion=4
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity SpecVersion=2
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_storage SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_query SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_user SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_storage_batch SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_FB_spatial_entity_sharing SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_META_spatial_entity_mesh SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_META_virtual_keyboard SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_EXT_local_floor SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_EXT_active_action_set_priority SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_FB_haptic_amplitude_envelope SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_FB_haptic_pcm SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_FB_touch_controller_pro SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_META_touch_controller_plus SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_FB_touch_controller_proximity SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_OCULUS_external_camera SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_META_detached_controllers SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_FBX1_touch_controller_extras SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_EXT_palm_pose SpecVersion=2
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display:  Name=XR_METAX2_detached_controllers SpecVersion=1
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_EXT_performance_settings
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_swapchain_update_state
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_swapchain_update_state_vulkan
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_foveation
+[2024.04.25-20.25.38:500][675]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_foveation_configuration
+[2024.04.25-20.25.38:501][675]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_foveation_vulkan
+[2024.04.25-20.25.38:501][675]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_vulkan_swapchain_create_info
+[2024.04.25-20.25.38:501][675]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_foveation_eye_tracked
+[2024.04.25-20.25.38:501][675]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_composition_layer_image_layout
+[2024.04.25-20.25.38:501][675]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_KHR_composition_layer_equirect2
+[2024.04.25-20.25.38:501][675]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_passthrough
+[2024.04.25-20.25.38:501][675]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_triangle_mesh
+[2024.04.25-20.25.38:501][675]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_passthrough_keyboard_hands
+[2024.04.25-20.25.38:501][675]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_passthrough_color_lut
+[2024.04.25-20.25.38:501][675]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_passthrough_preferences
+[2024.04.25-20.25.38:501][675]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_passthrough_layer_resumed_event
+[2024.04.25-20.25.38:501][675]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_EXT_hand_joints_motion_range
+[2024.04.25-20.25.38:501][675]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_EXT_hand_tracking_data_source
+[2024.04.25-20.25.38:501][675]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_hand_tracking_wide_motion_mode
+[2024.04.25-20.25.38:501][675]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_face_tracking
+[2024.04.25-20.25.38:501][675]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_face_tracking2
+[2024.04.25-20.25.38:501][675]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_FB_eye_tracking_social
+[2024.04.25-20.25.38:501][675]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_MSFT_hand_interaction
+[2024.04.25-20.25.38:501][675]LogOVRPlugin: Display: Unavailable OpenXR extension: XR_META_environment_depth
+[2024.04.25-20.25.38:547][675]LogOVRPlugin: Display: Initialize: xrCreateInstance() succeeded
+[2024.04.25-20.25.38:547][675]LogOVRPlugin: Display: OpenXR runtime name: Oculus, version 1.96.0
+[2024.04.25-20.25.38:555][675]LogOVRPlugin: Display: xrGetSystem() succeeded. xrSystemId 20
+[2024.04.25-20.25.39:087][675]LogOVRPlugin: Display: OpenXR system properties:
+  venderId 4294955582, systemName Oculus Quest2, maxSwapchainImage(4096, 4096), maxLayerCount 16, orientationTracking 1, positionTracking 1
+[2024.04.25-20.25.39:087][675]LogOVRPlugin: Display: OpenXR hand tracking system properties:
+  hand tracking supported 1
+[2024.04.25-20.25.39:087][675]LogOVRPlugin: Display: OpenXR simultaneous hands+controllers system properties:
+  hand tracking supported 0
+[2024.04.25-20.25.39:087][675]LogOVRPlugin: Display: OpenXR body tracking system properties:
+  body tracking supported 1
+[2024.04.25-20.25.39:087][675]LogOVRPlugin: Display: OpenXR body tracking system properties:
+  body tracking fidelity supported 0
+[2024.04.25-20.25.39:087][675]LogOVRPlugin: Display: OpenXR body tracking system properties:
+  full body tracking supported 1
+[2024.04.25-20.25.39:087][675]LogOVRPlugin: Display: OpenXR body tracking system properties:
+  body tracking calibration supported 1
+[2024.04.25-20.25.39:088][675]LogOVRPlugin: Display: OpenXR headset id system properties:
+  id 525078A55AAB4DC9B8021EBD6C7CFFF4
+[2024.04.25-20.25.39:088][675]LogOVRPlugin: Expected XrViewConfigurationType found (XR_VIEW_CONFIGURATION_TYPE_PRIMARY_STEREO)
+[2024.04.25-20.25.39:097][675]LogOVRPlugin: XrViewConfigurationProperties: type XR_VIEW_CONFIGURATION_TYPE_PRIMARY_STEREO, fovMutable 0
+[2024.04.25-20.25.39:098][675]LogOVRPlugin: Display: xrEnumerateViewConfigurationViews() found 2 views
+[2024.04.25-20.25.39:098][675]LogOVRPlugin: Display:   View: Recommended Width=1824 Height=1872 SampleCount=1 Maximum Width=3648 Height=3744 SampleCount=4
+[2024.04.25-20.25.39:098][675]LogOVRPlugin: Display:   View: Recommended Width=1824 Height=1872 SampleCount=1 Maximum Width=3648 Height=3744 SampleCount=4
+[2024.04.25-20.25.39:098][675]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/app/cpu_frametime
+[2024.04.25-20.25.39:098][675]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/app/gpu_frametime
+[2024.04.25-20.25.39:098][675]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/compositor/cpu_frametime
+[2024.04.25-20.25.39:098][675]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/compositor/gpu_frametime
+[2024.04.25-20.25.39:098][675]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/compositor/dropped_frame_count
+[2024.04.25-20.25.39:098][675]LogOVRPlugin: Display: Supported Performance Metrics: /perfmetrics_meta/compositor/spacewarp_mode
+[2024.04.25-20.25.39:098][675]LogOVRPlugin: Display: CompositorOpenXR::Initialize() - succeeded
+[2024.04.25-20.25.39:098][675]LogOVRPlugin: Display: OVRPlugin 1.96.0 ... initialized
+[2024.04.25-20.25.39:098][675]LogOVRPlugin: Error: CreateFoveationProfile() failed: required extensions not enabled: XR_FB_foveation 0 (arvr\projects\integrations\OVRPlugin\Src\Util\CompositorOpenXR.cpp:10119)
+[2024.04.25-20.25.40:192][675]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_UNKNOWN->XR_SESSION_STATE_IDLE session=72180670620762113 time=666883762203800
+[2024.04.25-20.25.40:192][675]LogOVRPlugin: [XR_SESSION] ... running 0 visible 0 focused 0
+[2024.04.25-20.25.40:193][675]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_IDLE->XR_SESSION_STATE_READY session=72180670620762113 time=666883762223300
+[2024.04.25-20.25.40:193][675]LogOVRPlugin: [XR_SESSION] ... running 1 visible 0 focused 0
+[2024.04.25-20.25.40:275][675]LogOVRPlugin: CompositorOpenXR_D3D12::Layer::Initialize(): CreateSwapchain for eye 0: 04006FF000000001, 3 stages
+[2024.04.25-20.25.40:275][675]LogOVRPlugin:  ... m_textureStages[0][0] = 00000237ACCB5790
+[2024.04.25-20.25.40:275][675]LogOVRPlugin:  ... m_textureStages[0][1] = 00000237ACCB6120
+[2024.04.25-20.25.40:275][675]LogOVRPlugin:  ... m_textureStages[0][2] = 00000237ACCB0180
+[2024.04.25-20.25.40:555][675]LogOVRPlugin: CompositorOpenXR_D3D12::Layer::CreateDepthSwapChain(): [depthStencil] CreateSwapchain for eye 0: 04006FF000000002, 3 stages
+[2024.04.25-20.25.40:555][675]LogOVRPlugin:  ... m_depthTextureStages[0][0] = 00000237ACCBB730
+[2024.04.25-20.25.40:555][675]LogOVRPlugin:  ... m_depthTextureStages[0][1] = 00000237ACCBA410
+[2024.04.25-20.25.40:555][675]LogOVRPlugin:  ... m_depthTextureStages[0][2] = 00000237ACCBC0C0
+[2024.04.25-20.25.40:555][675]LogHMD: Allocating Oculus 3648 x 1872 rendertarget swapchain
+[2024.04.25-20.25.40:556][675]LogOVRPlugin: Display: [CompositorOpenXR::SetClientColorDesc] Change colorspace from 0 to 7
+[2024.04.25-20.25.40:556][675]PIE: New page: PIE session: Map_General (Apr 25, 2024, 12:25:40 PM)
+[2024.04.25-20.25.40:557][675]LogPlayLevel: Creating play world package: /Game/InteractionSystem/Maps/UEDPIE_0_Map_General
+[2024.04.25-20.25.40:659][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103013s)
+[2024.04.25-20.25.40:660][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InteractionSystem/Maps/Map_General.Map_General to /Game/InteractionSystem/Maps/UEDPIE_0_Map_General.Map_General (0.103070s)
+[2024.04.25-20.25.40:688][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.04.25-20.25.40:705][675]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.25-20.25.40:705][675]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.25-20.25.40:705][675]LogAIModule: Creating AISystem for world Map_General
+[2024.04.25-20.25.40:706][675]LogPlayLevel: PIE: World Init took: (0.001369s)
+[2024.04.25-20.25.40:706][675]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2024.04.25-20.25.40:706][675]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.25-20.25.40:706][675]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.25-20.25.40:706][675]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.25-20.25.40:706][675]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.25-20.25.40:706][675]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.25-20.25.40:706][675]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.25-20.25.40:706][675]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.25-20.25.40:706][675]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.25-20.25.40:707][675]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.25-20.25.40:707][675]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.25-20.25.40:707][675]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.25-20.25.40:709][675]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.25-20.25.40:752][675]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.04.25-20.25.40:752][675]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.25-20.25.40:752][675]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.25-20.25.40:752][675]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.25-20.25.40:753][675]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2024.04.25-20.25.40:753][675]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2024.04.25-20.25.40:756][675]LogInit: FAudioDevice initialized with ID 36.
+[2024.04.25-20.25.40:756][675]LogAudio: Display: Audio Device (ID: 36) registered with world 'Map_General'.
+[2024.04.25-20.25.40:756][675]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2024.04.25-20.25.40:756][675]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2024.04.25-20.25.40:756][675]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2024.04.25-20.25.40:777][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-20.25.40:777][675]LogViewport: Scene viewport resized to 3648x1872, mode Windowed.
+[2024.04.25-20.25.40:799][675]LogLoad: Game class is 'VRGameMode_C'
+[2024.04.25-20.25.40:878][675]LogWorld: Bringing World /Game/InteractionSystem/Maps/UEDPIE_0_Map_General.Map_General up for play (max tick rate 0) at 2024.04.25-16.25.40
+[2024.04.25-20.25.40:880][675]LogWorld: Bringing up level for play took: 0.080090
+[2024.04.25-20.25.40:882][675]LogOnline: OSS: Created online subsystem instance for: :Context_96
+[2024.04.25-20.25.40:885][675]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.04.25-20.25.40:886][675]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.04.25-20.25.40:889][675]LogLevelInstance: Loaded 12 levels in 0.002 seconds
+[2024.04.25-20.25.40:893][675]LogStreaming: Display: FlushAsyncLoading(): 12 QueuedPackages, 0 AsyncPackages
+[2024.04.25-20.25.41:008][675]PIE: Warning: Mobility of /Game/InteractionSystem/Maps/UEDPIE_0_Map_General.Map_General:PersistentLevel.StaticMeshActor_108 : Mesh has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2024.04.25-20.25.41:008][675]PIE: Warning: Mobility of /Game/InteractionSystem/Maps/UEDPIE_0_Map_General.Map_General:PersistentLevel.StaticMeshActor_109 : Mesh has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2024.04.25-20.25.41:008][675]PIE: Warning: Mobility of /Game/InteractionSystem/Maps/UEDPIE_0_Map_General.Map_General:PersistentLevel.StaticMeshActor_113 : Mesh has to be 'Movable' if you'd like to SetPhysicsLinearVelocity. 
+[2024.04.25-20.25.41:015][675]vr.PixelDensity = "1"
+[2024.04.25-20.25.41:025][675]PIE: Server logged in
+[2024.04.25-20.25.41:029][675]PIE: Play in editor total start time 2.71 seconds.
+[2024.04.25-20.25.41:094][675]LogHMD: Allocating Oculus 3648 x 1872 depth rendertarget swapchain
+[2024.04.25-20.25.43:545][676]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_READY->XR_SESSION_STATE_SYNCHRONIZED session=72180670620762113 time=666888121788700
+[2024.04.25-20.25.43:545][676]LogOVRPlugin: [XR_SESSION] ... running 1 visible 0 focused 0
+[2024.04.25-20.25.43:954][678]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.04.25-20.25.44:145][679]LogOVRPlugin: CompositorOpenXR_D3D12::Layer::Initialize(): CreateSwapchain for eye 0: 04006FF000000003, 3 stages
+[2024.04.25-20.25.44:145][679]LogOVRPlugin:  ... m_textureStages[0][0] = 000002380DA9AD40
+[2024.04.25-20.25.44:145][679]LogOVRPlugin:  ... m_textureStages[0][1] = 000002378D146830
+[2024.04.25-20.25.44:145][679]LogOVRPlugin:  ... m_textureStages[0][2] = 000002378D14B870
+[2024.04.25-20.25.44:269][680]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_SYNCHRONIZED->XR_SESSION_STATE_VISIBLE session=72180670620762113 time=666888845357400
+[2024.04.25-20.25.44:269][680]LogOVRPlugin: [XR_SESSION] ... running 1 visible 1 focused 0
+[2024.04.25-20.25.44:269][680]LogOVRPlugin: Display: [XR_SESSION] XrEventDataSessionStateChanged: state XR_SESSION_STATE_VISIBLE->XR_SESSION_STATE_FOCUSED session=72180670620762113 time=666888845370700
+[2024.04.25-20.25.44:269][680]LogOVRPlugin: [XR_SESSION] ... running 1 visible 1 focused 1
+[2024.04.25-20.25.44:290][681]LogOVRPlugin: HandleOpenXREvents(): XrEventDataInteractionProfileChanged
+[2024.04.25-20.27.28:624][402]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Input_Slot_Pipe_C /Game/InteractionSystem/Maps/UEDPIE_0_Map_General.Map_General:PersistentLevel.BP_Input_Slot_Pipe_C_2
+	Function /Game/InteractionSystem/Blueprints/Input/Master/BP_Input.BP_Input_C:Set State On:017E
+[2024.04.25-20.27.28:624][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  On Graph:  Set State On Function:  Set State On Blueprint:  BP_Input
+[2024.04.25-20.29.11:762][345]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Input_Slot_Pipe_C /Game/InteractionSystem/Maps/UEDPIE_0_Map_General.Map_General:PersistentLevel.BP_Input_Slot_Pipe_C_0
+	Function /Game/InteractionSystem/Blueprints/Input/Master/BP_Input.BP_Input_C:Set State On:017E
+[2024.04.25-20.29.11:762][345]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  On Graph:  Set State On Function:  Set State On Blueprint:  BP_Input
+[2024.04.25-20.29.16:753][525]LogViewport: Scene viewport resized to 1455x928, mode Windowed.
+[2024.04.25-20.29.16:763][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.25-20.29.16:763][525]LogWorld: BeginTearingDown for /Game/InteractionSystem/Maps/UEDPIE_0_Map_General
+[2024.04.25-20.29.16:837][525]LogSlate: Window 'ParalangsVR Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OculusXRHMD OVRPlugin: 1.96.0' being destroyed
+[2024.04.25-20.29.16:885][525]LogWorld: UWorld::CleanupWorld for Map_General, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-20.29.16:893][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-20.29.16:897][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.25-20.29.16:906][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-20.29.16:936][525]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2024.04.25-20.29.16:937][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.04.25-20.29.16:939][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.04.25-20.29.16:978][525]LogSlate: Slate User Unregistered.  User Index 8
+[2024.04.25-20.29.16:978][525]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.04.25-20.29.16:983][525]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2024.04.25-20.29.17:162][526]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2024.04.25-20.29.17:162][526]LogHMD: Warning: Destroying layer 1
+[2024.04.25-20.29.17:166][526]LogHMD: Warning: Destroying layer 2
+[2024.04.25-20.29.17:176][526]LogOVRPlugin: CompositorOpenXR::~CompositorOpenXR()
+[2024.04.25-20.29.17:322][526]LogOVRPlugin: m_xrSession destroyed
+[2024.04.25-20.29.17:329][526]LogOVRPlugin: m_xrInstance destroyed
+[2024.04.25-20.29.17:349][526]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.04.25-20.29.27:008][996]LogSlate: Window 'Message Log' being destroyed
+[2024.04.25-20.29.27:022][996]LogSlate: Window 'Message Log' being destroyed
+[2024.04.25-20.30.12:584][454]Cmd: DELETE
+[2024.04.25-20.30.12:585][454]Cmd: ACTOR DELETE
+[2024.04.25-20.30.12:610][454]LogEditorActor: Deleted Actor: BP_Item_Pipe_C
+[2024.04.25-20.30.12:631][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.04.25-20.30.12:642][454]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2024.04.25-20.30.14:582][560]LogClass: Warning: Short type name "BP_Item_Pipe_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+FWindowsPlatformStackWalk::CaptureStackBackTrace() []
+UClass::TryFindTypeSlow() []
+DelegatePropertyTools::ImportDelegateFromText() []
+FDelegateProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+UScriptStruct::ImportText() []
+FStructProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+EditorUtilities::ImportObjectsPropertiesStep() []
+ImportObjectProperties() []
+
+[2024.04.25-20.30.14:583][560]LogClass: Warning: Short type name "BP_Item_Pipe_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+FWindowsPlatformStackWalk::CaptureStackBackTrace() []
+UClass::TryFindTypeSlow() []
+DelegatePropertyTools::ImportDelegateFromText() []
+FDelegateProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+UScriptStruct::ImportText() []
+FStructProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+EditorUtilities::ImportObjectsPropertiesStep() []
+ImportObjectProperties() []
+
+[2024.04.25-20.30.14:585][560]LogClass: Warning: Short type name "BP_Item_Pipe_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+FWindowsPlatformStackWalk::CaptureStackBackTrace() []
+UClass::TryFindTypeSlow() []
+DelegatePropertyTools::ImportDelegateFromText() []
+FDelegateProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+UScriptStruct::ImportText() []
+FStructProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+EditorUtilities::ImportObjectsPropertiesStep() []
+ImportObjectProperties() []
+
+[2024.04.25-20.30.14:586][560]LogClass: Warning: Short type name "BP_Item_Pipe_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+FWindowsPlatformStackWalk::CaptureStackBackTrace() []
+UClass::TryFindTypeSlow() []
+DelegatePropertyTools::ImportDelegateFromText() []
+FDelegateProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+UScriptStruct::ImportText() []
+FStructProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+EditorUtilities::ImportObjectsPropertiesStep() []
+ImportObjectProperties() []
+
+[2024.04.25-20.30.46:603][700]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InteractionSystem/Blueprints/Items/Master/BP_Item.BP_Item
+[2024.04.25-20.30.46:603][700]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.25-20.30.46:603][700]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.25-20.30.54:931][559]LogViewport: Scene viewport resized to 1525x973, mode Windowed.
+[2024.04.25-20.30.56:032][683]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2024.04.25-20.30.56:032][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.25-20.30.58:342][876]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InteractionSystem/Blueprints/Items/BP_Item_Breakable_Window.BP_Item_Breakable_Window
+[2024.04.25-20.30.58:342][876]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.25-20.30.58:342][876]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.25-20.31.04:206][974]LogViewport: Scene viewport resized to 1126x389, mode Windowed.
+[2024.04.25-20.31.41:630][909]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.04.25-20.31.41:630][909]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.04.25-20.31.45:581][300]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.04.25-20.31.45:581][300]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.04.25-20.32.14:641][913]LogClass: Warning: Short type name "BP_Connection_SlidingDoubleDoor_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+FWindowsPlatformStackWalk::CaptureStackBackTrace() []
+UClass::TryFindTypeSlow() []
+DelegatePropertyTools::ImportDelegateFromText() []
+FDelegateProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+UScriptStruct::ImportText() []
+FStructProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+EditorUtilities::ImportObjectsPropertiesStep() []
+ImportObjectProperties() []
+
+[2024.04.25-20.32.14:642][913]LogClass: Warning: Short type name "BP_Connection_SlidingDoubleDoor_C_2" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+FWindowsPlatformStackWalk::CaptureStackBackTrace() []
+UClass::TryFindTypeSlow() []
+DelegatePropertyTools::ImportDelegateFromText() []
+FDelegateProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+UScriptStruct::ImportText() []
+FStructProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+EditorUtilities::ImportObjectsPropertiesStep() []
+ImportObjectProperties() []
+
+[2024.04.25-20.32.21:658][292]Cmd: DELETE
+[2024.04.25-20.32.21:658][292]Cmd: ACTOR DELETE
+[2024.04.25-20.32.21:679][292]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.25-20.32.21:708][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.04.25-20.32.21:722][292]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2024.04.25-20.32.23:385][459]Cmd: DELETE
+[2024.04.25-20.32.23:385][459]Cmd: ACTOR DELETE
+[2024.04.25-20.32.23:405][459]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.25-20.32.23:427][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.04.25-20.32.23:431][459]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2024.04.25-20.32.59:616][124]Cmd: MODE SCALEGRID=1
+[2024.04.25-20.33.10:048][ 25]Cmd: MODE SCALEGRID=0
+[2024.04.25-20.34.13:984][892]Cmd: TRANSACTION UNDO
+[2024.04.25-20.34.13:984][892]LogEditorTransaction: Undo Clicking on Elements
+[2024.04.25-20.34.14:459][898]Cmd: TRANSACTION UNDO
+[2024.04.25-20.34.14:459][898]LogEditorTransaction: Undo Clicking on Elements
+[2024.04.25-20.34.14:859][920]Cmd: TRANSACTION UNDO
+[2024.04.25-20.34.14:859][920]LogEditorTransaction: Undo Clicking on Elements
+[2024.04.25-20.35.38:805][505]LogClass: Warning: Short type name "BP_EItemPipe1_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+FWindowsPlatformStackWalk::CaptureStackBackTrace() []
+UClass::TryFindTypeSlow() []
+DelegatePropertyTools::ImportDelegateFromText() []
+FDelegateProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+UScriptStruct::ImportText() []
+FStructProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+EditorUtilities::ImportObjectsPropertiesStep() []
+ImportObjectProperties() []
+
+[2024.04.25-20.35.38:806][505]LogClass: Warning: Short type name "BP_EItemPipe1_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+FWindowsPlatformStackWalk::CaptureStackBackTrace() []
+UClass::TryFindTypeSlow() []
+DelegatePropertyTools::ImportDelegateFromText() []
+FDelegateProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+UScriptStruct::ImportText() []
+FStructProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+EditorUtilities::ImportObjectsPropertiesStep() []
+ImportObjectProperties() []
+
+[2024.04.25-20.35.38:807][505]LogClass: Warning: Short type name "BP_EItemPipe1_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+FWindowsPlatformStackWalk::CaptureStackBackTrace() []
+UClass::TryFindTypeSlow() []
+DelegatePropertyTools::ImportDelegateFromText() []
+FDelegateProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+UScriptStruct::ImportText() []
+FStructProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+EditorUtilities::ImportObjectsPropertiesStep() []
+ImportObjectProperties() []
+
+[2024.04.25-20.35.38:808][505]LogClass: Warning: Short type name "BP_EItemPipe1_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+FWindowsPlatformStackWalk::CaptureStackBackTrace() []
+UClass::TryFindTypeSlow() []
+DelegatePropertyTools::ImportDelegateFromText() []
+FDelegateProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+UScriptStruct::ImportText() []
+FStructProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+EditorUtilities::ImportObjectsPropertiesStep() []
+ImportObjectProperties() []
+
+[2024.04.25-20.35.40:738][590]Cmd: TRANSACTION UNDO
+[2024.04.25-20.35.40:738][590]LogEditorTransaction: Undo Move Elements
+[2024.04.25-20.35.41:595][612]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.25-20.35.43:958][765]LogClass: Warning: Short type name "BP_EItemPipe1_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+FWindowsPlatformStackWalk::CaptureStackBackTrace() []
+UClass::TryFindTypeSlow() []
+DelegatePropertyTools::ImportDelegateFromText() []
+FDelegateProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+UScriptStruct::ImportText() []
+FStructProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+EditorUtilities::ImportObjectsPropertiesStep() []
+ImportObjectProperties() []
+
+[2024.04.25-20.35.43:958][765]LogClass: Warning: Short type name "BP_EItemPipe1_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+FWindowsPlatformStackWalk::CaptureStackBackTrace() []
+UClass::TryFindTypeSlow() []
+DelegatePropertyTools::ImportDelegateFromText() []
+FDelegateProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+UScriptStruct::ImportText() []
+FStructProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+EditorUtilities::ImportObjectsPropertiesStep() []
+ImportObjectProperties() []
+
+[2024.04.25-20.35.43:959][765]LogClass: Warning: Short type name "BP_EItemPipe1_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+FWindowsPlatformStackWalk::CaptureStackBackTrace() []
+UClass::TryFindTypeSlow() []
+DelegatePropertyTools::ImportDelegateFromText() []
+FDelegateProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+UScriptStruct::ImportText() []
+FStructProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+EditorUtilities::ImportObjectsPropertiesStep() []
+ImportObjectProperties() []
+
+[2024.04.25-20.35.43:960][765]LogClass: Warning: Short type name "BP_EItemPipe1_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+FWindowsPlatformStackWalk::CaptureStackBackTrace() []
+UClass::TryFindTypeSlow() []
+DelegatePropertyTools::ImportDelegateFromText() []
+FDelegateProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+UScriptStruct::ImportText() []
+FStructProperty::ImportText_Internal() []
+FProperty::ImportSingleProperty() []
+EditorUtilities::ImportObjectsPropertiesStep() []
+ImportObjectProperties() []
+
+[2024.04.25-20.35.44:641][784]Cmd: TRANSACTION UNDO
+[2024.04.25-20.35.44:641][784]LogEditorTransaction: Undo Move Elements
+[2024.04.25-20.35.50:540][948]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.25-20.36.56:638][696]Cmd: ACTOR SELECT MATCHINGSTATICMESH ALLCLASSES
+[2024.04.25-20.36.56:639][696]LogEditorActor: No worlds found in edactSelectMatchingStaticMesh
+[2024.04.25-20.37.18:846][440]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.04.25-20.37.18:847][440]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.04.25-20.37.24:384][928]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.04.25-20.37.24:384][928]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.04.25-20.38.09:964][813]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.25-20.40.23:240][185]Cmd: MODE ROTGRID=0
+[2024.04.25-20.42.31:661][854]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.25-20.43.34:277][893]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.04.25-20.43.34:277][893]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.04.25-20.43.46:704][953]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.04.25-20.43.46:704][953]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.04.25-20.44.14:552][677]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.04.25-20.44.14:553][677]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.04.25-20.44.29:554][476]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-20.44.29:683][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2024.04.25-20.44.30:202][476]LogSavePackage: Moving output files for package: /Game/InteractionSystem/Maps/Map_General
+[2024.04.25-20.44.30:204][476]LogSavePackage: Moving '../../../../../../Users/16313/OneDrive/git-repos/CINF496Vr-Final/CINF496Vr-Final/ParalangsVR/Saved/Map_General4E78609240B5959C24AFF1AD51FB1164.tmp' to '../../../../../../Users/16313/OneDrive/git-repos/CINF496Vr-Final/CINF496Vr-Final/ParalangsVR/Content/InteractionSystem/Maps/Map_General.umap'
+[2024.04.25-20.44.30:221][476]LogFileHelpers: All files are already saved.
+[2024.04.25-20.44.30:221][476]LogFileHelpers: Saving map 'Map_General' took 0.624
+[2024.04.25-20.44.30:236][476]LogFileHelpers: InternalPromptForCheckoutAndSave took 683 ms (total: 11.5 sec)
+[2024.04.25-20.44.30:243][476]AssetCheck: New page: Asset Save: Map_General
+[2024.04.25-20.44.30:243][476]LogContentValidation: Display: Validating /Script/Engine.World /Game/InteractionSystem/Maps/Map_General.Map_General
+[2024.04.25-20.44.31:046][530]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-20.44.31:151][530]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.04.25-20.44.31:666][530]LogSavePackage: Moving output files for package: /Game/InteractionSystem/Maps/Map_General
+[2024.04.25-20.44.31:667][530]LogSavePackage: Moving '../../../../../../Users/16313/OneDrive/git-repos/CINF496Vr-Final/CINF496Vr-Final/ParalangsVR/Saved/Map_General7C0F7BBA481CE8EEE45471AA77F162A8.tmp' to '../../../../../../Users/16313/OneDrive/git-repos/CINF496Vr-Final/CINF496Vr-Final/ParalangsVR/Content/InteractionSystem/Maps/Map_General.umap'
+[2024.04.25-20.44.31:682][530]LogFileHelpers: All files are already saved.
+[2024.04.25-20.44.31:682][530]LogFileHelpers: Saving map 'Map_General' took 0.592
+[2024.04.25-20.44.31:695][530]LogFileHelpers: InternalPromptForCheckoutAndSave took 647 ms (total: 12.1 sec)
+[2024.04.25-20.44.31:697][530]AssetCheck: New page: Asset Save: Map_General
+[2024.04.25-20.44.31:697][530]LogContentValidation: Display: Validating /Script/Engine.World /Game/InteractionSystem/Maps/Map_General.Map_General
+[2024.04.25-20.44.32:661][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.04.25-20.44.33:919][601]LogSlate: Window 'Save Content' being destroyed
+[2024.04.25-20.44.33:946][601]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.25-20.44.34:036][601]LogSavePackage: Moving output files for package: /Game/InteractionSystem/Blueprints/Items/BP_Item_Breakable_Window
+[2024.04.25-20.44.34:039][601]LogSavePackage: Moving '../../../../../../Users/16313/OneDrive/git-repos/CINF496Vr-Final/CINF496Vr-Final/ParalangsVR/Saved/BP_Item_Breakable_Window3BDDC44B4CA069CE4F3D4891603FEBBD.tmp' to '../../../../../../Users/16313/OneDrive/git-repos/CINF496Vr-Final/CINF496Vr-Final/ParalangsVR/Content/InteractionSystem/Blueprints/Items/BP_Item_Breakable_Window.uasset'
+[2024.04.25-20.44.34:051][601]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 12.2 sec)
+[2024.04.25-20.44.34:055][601]AssetCheck: New page: Asset Save: BP_Item_Breakable_Window
+[2024.04.25-20.44.34:055][601]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InteractionSystem/Blueprints/Items/BP_Item_Breakable_Window.BP_Item_Breakable_Window
